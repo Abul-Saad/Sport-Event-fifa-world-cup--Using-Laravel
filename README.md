@@ -21,7 +21,7 @@ A web application built using **Laravel**, **HTML**, **CSS**, **Bootstrap**, and
 | Frontend    | HTML, CSS, Bootstrap   |
 | Database    | MySQL                  |
 | ORM         | Eloquent (Laravel)     |
-| Server      | Apache / Laravel Sail  |
+| Server      | Apache /               |
 
 ---
 
